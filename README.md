@@ -45,7 +45,7 @@ Cada estado é uma classe separada que encapsula seu próprio comportamento. A c
 
 ### Diagrama de Classes
 
-![Diagrama de Classes](diagrama-classes.png)
+![Diagrama de Classes](https://github.com/mbarros-ux/PadraoState/blob/master/diagrama-classes.png))
 
 **Componentes:**
 
