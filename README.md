@@ -45,7 +45,7 @@ Cada estado é uma classe separada que encapsula seu próprio comportamento. A c
 
 ### Diagrama de Classes
 
-
+![Diagrama de Classes](diagrama-classes.png)
 
 **Componentes:**
 
